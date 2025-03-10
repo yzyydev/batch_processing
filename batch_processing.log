@@ -1,0 +1,25 @@
+INFO:httpx:HTTP Request: GET https://api.anthropic.com/v1/messages/batches/msgbatch_018dsSDxcnhyu9iSZBR9YWNG "HTTP/1.1 200 OK"
+INFO:root:Processing Status: in_progress
+INFO:httpx:HTTP Request: GET https://api.anthropic.com/v1/messages/batches/msgbatch_018dsSDxcnhyu9iSZBR9YWNG "HTTP/1.1 200 OK"
+INFO:root:Processing Status: in_progress
+INFO:httpx:HTTP Request: GET https://api.anthropic.com/v1/messages/batches/msgbatch_018dsSDxcnhyu9iSZBR9YWNG "HTTP/1.1 200 OK"
+INFO:root:Processing Status: in_progress
+INFO:httpx:HTTP Request: GET https://api.anthropic.com/v1/messages/batches/msgbatch_018dsSDxcnhyu9iSZBR9YWNG "HTTP/1.1 200 OK"
+INFO:root:Processing Status: in_progress
+INFO:httpx:HTTP Request: GET https://api.anthropic.com/v1/messages/batches/msgbatch_018dsSDxcnhyu9iSZBR9YWNG "HTTP/1.1 200 OK"
+INFO:root:Processing Status: in_progress
+INFO:httpx:HTTP Request: GET https://api.anthropic.com/v1/messages/batches/msgbatch_018dsSDxcnhyu9iSZBR9YWNG "HTTP/1.1 200 OK"
+INFO:root:Processing Status: in_progress
+INFO:httpx:HTTP Request: GET https://api.anthropic.com/v1/messages/batches/msgbatch_018dsSDxcnhyu9iSZBR9YWNG "HTTP/1.1 200 OK"
+INFO:root:Processing Status: in_progress
+INFO:httpx:HTTP Request: GET https://api.anthropic.com/v1/messages/batches/msgbatch_018dsSDxcnhyu9iSZBR9YWNG "HTTP/1.1 200 OK"
+INFO:root:Processing Status: in_progress
+INFO:httpx:HTTP Request: GET https://api.anthropic.com/v1/messages/batches/msgbatch_018dsSDxcnhyu9iSZBR9YWNG "HTTP/1.1 200 OK"
+INFO:root:Processing Status: in_progress
+INFO:httpx:HTTP Request: GET https://api.anthropic.com/v1/messages/batches/msgbatch_018dsSDxcnhyu9iSZBR9YWNG "HTTP/1.1 200 OK"
+INFO:root:Processing Status: in_progress
+INFO:httpx:HTTP Request: GET https://api.anthropic.com/v1/messages/batches/msgbatch_018dsSDxcnhyu9iSZBR9YWNG "HTTP/1.1 200 OK"
+INFO:root:Processing Status: ended
+INFO:root:Total Processing Time: 52.196324825286865 seconds
+INFO:httpx:HTTP Request: GET https://api.anthropic.com/v1/messages/batches/msgbatch_018dsSDxcnhyu9iSZBR9YWNG "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://api.anthropic.com/v1/messages/batches/msgbatch_018dsSDxcnhyu9iSZBR9YWNG/results "HTTP/1.1 200 OK"
